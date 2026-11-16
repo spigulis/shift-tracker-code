@@ -1,0 +1,7 @@
+.venv/
+bin/
+clips/
+out/
+*.pt
+*.mp4
+__pycache__/
